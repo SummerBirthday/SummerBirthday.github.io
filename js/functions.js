@@ -21,6 +21,6 @@
 })(jQuery);
 
 function adjustCodePosition() {
-	$('#code').css("margin-top", -215);
+	$('#code').css("margin-top", -15);
 }
 
